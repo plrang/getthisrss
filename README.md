@@ -1,0 +1,4 @@
+getthisrss
+==========
+
+It's BAM
